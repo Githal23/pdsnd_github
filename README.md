@@ -6,7 +6,7 @@
 
 
 ### Description
-This project content data analysis about Bikeshare company from 3 cities - Washington, Chicago and New Your City. Using terminal it is possible to check te statistic and raw data from 3 independent CSV files. The purpose of this project was learn the Python programing in Udacity course. Terminal is interactive for users and can ask question to users. Depending on answers that was given the users received proper data or follow next questions.
+This project content data analysis about Bikeshare company from 3 cities - Washington, Chicago and New Your City. Using terminal it is possible to check te statistic and raw data from 3 independent CSV files. The purpose of this project was learn the Python programing in Udacity course. Terminal is interactive for users and can ask the questions to users. Depending on answers that was given the users received proper data or follow next questions.
 
 ### Files used
 - bikeshare.py 
