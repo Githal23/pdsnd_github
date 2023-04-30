@@ -9,6 +9,7 @@ cities = ('Chicago', 'New York City', 'Washington')
 months = ('All', 'January', 'February', 'March', 'April', 'May', 'June')
 days = ('All', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday')
 user_decisions = ('Yes', 'No')
+# added parts to the template
 
 def get_filters():
     """
@@ -193,7 +194,6 @@ def raw_data(df):
     # Ask user if raw data should be display
     row_number = df.shape[0]
     pd.set_option('display.max_column', None)
-       
        
     for i in range(0,row_number,5):
         user_decision = input('\nDo you want to see the raw data? (5 next rows). Write Yes or No\n').title()
