@@ -14,6 +14,8 @@ This project content data analysis about Bikeshare company from 3 cities - Washi
 - new_york_city.csv 
 - readme.txt
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+### Resources
+- https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
+- https://pandas.pydata.org/pandas-docs/stable/user_guide/basics.html#basics
+- https://builtin.com/data-science/pandas-show-all-columns
+- Udacity course
