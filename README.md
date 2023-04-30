@@ -1,17 +1,23 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+30.04.2023
 
-### Project Title
+### Python project - Bikeshare 
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+This project content data analysis about Bikeshare company from 3 cities - Washington, Chicago and New Your City. Using terminal it is possible to check te statistic and raw data from 3 independed CSV files. The purpose of this project was learn the Python programing in Udacity course.
 
 ### Files used
-Include the files used
+bikeshare.py
+washington.csv
+new_york_city.csv
+readme.txt
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
+https://pandas.pydata.org/pandas-docs/stable/user_guide/basics.html#basics
+https://builtin.com/data-science/pandas-show-all-columns
+udacity course
 
